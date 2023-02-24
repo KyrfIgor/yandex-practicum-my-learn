@@ -1,2 +1,2 @@
-# yandex-prct__sprint01
+# yandex-practicum-my-learn
 Yandex practicum - acinc
